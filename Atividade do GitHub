@@ -6,6 +6,16 @@
  O GitHub faz parte do Git, um projeto que realiza manutenções de software nas suas diversas versões de criação. Isto é, ao invés de conter somente uma cópia de todo o histórico de formação, o sistema armazena todo o repertório de alterações. Isso será importante futuramente! 👀 
  
  Agora vamos iniciar o tutorial.
+ 
+ 👩‍💻 Bom, primeiramente, você deve instalar o Github em seu computador, para que seja possível realizar seus projetos. A seguir te apresentaremos o passo-a-passo para instalação em windows:
+
+ Passo 1: É preciso entrar no site "GitHub Desktop";
+
+ Passo 2: Clicar em Download for Windows (64bit);
+
+ Passo 3: Nos arquivos do seu computador, entre em "dowloads" e clique 2x em "GithubDesktopSetup";
+
+ Assim, após a instalação ser concluída, o GitHub Desktop estará disponível para sua utilização.🥳
 
  Criando uma conta...
  Estando na página inicial (https://github.com/), vocês clicarão em "Sign up" no canto superior direito. O site pedirá, então, um e-mail. É recomendado que vocês deem àquele que é associado à faculdade, para ser possível solicitar requintes acadêmicos.
