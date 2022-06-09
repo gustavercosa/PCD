@@ -1,7 +1,7 @@
 # Atividade do GitHub
 
 Oi! 👋 
-<br> Somos alunos da primeira turma da Ilum e viemos introduzir o GitHub para vocês!
+<br> Somos alunos da primeira turma da Ilum e viemos introduzir o `GitHub` para vocês!
 <br> Vamos pelo "básico"... o que é `GitHub`?
 <br> Esse site que você está inserido agora pertence a uma plataforma, o GitHub. Aqui há a hospedagem e o controle de distintos códigos, como esse texto que vocês estão lendo! Além de postar códigos e mais códigos, vocês podem colaborar e trocar informações com outros criadores.
 <br> Mas por que tudo isso é possível?
