@@ -15,7 +15,7 @@
 
  Iniciando as criações... 📎
  Primeiro, alguns apetrechos: o GitHub usa distintas ferramentas e vamos explicá-las sucintamente para vocês. 
- O .gitignore realiza a seleção de arquivos e/ou pastas que serão ignorados na criação de um novo repertório. Saiba mais em: https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files.
+ O `.gitignore` realiza a seleção de arquivos e/ou pastas que serão ignorados na criação de um novo repertório. Saiba mais em: https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files.
  Vamos gerar um repositório! Ao clicarem no seu respectivo ícone, selecionem a opção "Your profile", vocês serão direcionados para a página de usuário. Lá, acessem os repositórios em "Repositories".
  Para criar é simples. Cliquem em "New", no canto superior direito e o personalize: coloquem qualquer nome no espaço destinado, o "Repository name". Se quiserem, também podem especificá-lo adicionando um comentário em "Description".
  Em seguida, selecionem o tipo: público ou privado. Para fins acadêmicos, é recomendado usar o estilo "Public", pois vocês compartilharão informações entre si.
