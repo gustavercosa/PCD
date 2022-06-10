@@ -29,8 +29,3 @@ Oi! 👋
 <br> Por fim, aprove a inscrição! Tecle "y" e envie.
 <br>
 <br> Iniciando as criações... 📎
-<br> Vamos gerar um repositório! Ao clicar no seu respectivo ícone, selecione a opção "Your profile", você será direcionado para a página de usuário. Lá, acesse os repositórios em "Repositories".
-<br> Para criar é simples. Clique em "New", no canto superior direito e o personalize: coloque qualquer nome no espaço destinado, o "Repository name". Se quiser, também pode especificá-lo adicionando um comentário em "Description".
-<br> Em seguida, selecione o tipo: público ou privado. Para fins acadêmicos, é recomendado usar o estilo "Public", pois você compartilhará informações com outras pessoas.
-<br> Por fim, "enfeite" seu repertório: você quer um arquivo `README`? Quais arquivos você quer ignorar com o `.gitignore`? Qual licença você usará? Essa última seleção é delicada! A licença é o que determina como e se ocorrerá o compartilhamento legal de informações contidas no `GitHub`. Cada uma atua de uma forma diferente, então, estude-as! Saiba mais [aqui](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
-<br> Pronto, você pode terminar de estruturar seu repertório clicando em "Create repository".
