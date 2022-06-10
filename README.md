@@ -6,8 +6,27 @@ Oi! 👋
 <br> Esse site que você está inserido agora pertence a uma plataforma, o `GitHub`. Aqui há a hospedagem e o controle de distintos códigos, como esse texto que vocês estão lendo! Além de postar códigos e mais códigos, vocês podem colaborar e trocar informações com outros criadores.
 <br> Mas por que tudo isso é possível?
 <br> O `GitHub` faz parte do Git, um projeto que realiza manutenções de software nas suas diversas versões de criação. Isto é, ao invés de conter somente uma cópia de todo o histórico de formação, o sistema armazena todo o repertório de alterações. Isso será importante futuramente! 👀 
+<br> 👩‍💻 Bom, primeiramente, você deve instalar o Github em seu computador, para que seja possível realizar seus projetos. A seguir te apresentaremos o passo-a-passo para instalação em windows:
 <br>
-<br> Agora vamos iniciar o tutorial.
+<br> Passo 1: É preciso entrar no site "GitHub Desktop";
+<br>
+<br>Passo 2: Clicar em Download for Windows (64bit);
+<br>
+<br>Passo 3: Nos arquivos do seu computador, entre em "dowloads" e clique 2x em "GithubDesktopSetup";
+<br>
+<br>Assim, após a instalação ser concluída, o GitHub Desktop estará disponível para sua utilização.🥳
+<br>
+<br>👩‍🏫 Aqui vão algumas definições importantes para o uso do GitHub:
+<br>
+<br>📁 Repositório: É um diretório onde os arquivos dos seus projetos podem ficar armazenados
+<br>
+<br>📦 Commits: Ao abrir seu respositório, uma das primeiras coisas que irão aparecer é o commit. Ele é uma unidade estrutural com um cronograma de projeto Git.Nele ficarão armazenadas, basicamente todas as informações essenciais do seu git e tudo o que você fizer no projeto, apararecerá registrado nele também, capturando sempre o estado do seu trabalho.
+<br>
+<br>📃 Readmes: É basicamente um local em que pode ser escrito um texto (como esse que você está lendo agora). Ele geralmente aparece no início de um repositório e contém informações importantes para os usuários que o acessarem.
+<br>
+<br>👥 Fork: Com o comando fork é possível copiar o repositório de uma pessoa e altera-lo da forma que você quiser!
+<br>
+<br> Agora vamos iniciar o tutorial do uso do GitHub:
 <br>
 <br> Criando uma conta...
 <br> Estando na [página inicial](https://github.com/), vocês clicarão em "Sign up" no canto superior direito. O site pedirá, então, um e-mail. É recomendado que vocês deem àquele que é associado à faculdade, para ser possível solicitar requintes acadêmicos.
