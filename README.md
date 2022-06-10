@@ -23,3 +23,18 @@ Oi! 👋
 <br> Em seguida, selecionem o tipo: público ou privado. Para fins acadêmicos, é recomendado usar o estilo "Public", pois vocês compartilharão informações entre si.
 <br> Por fim, "enfeite" seu repertório: vocês querem um arquivo `README`? Quais arquivos vocês querem ignorar com o `.gitignore`? Qual licença vocês usarão? Essa última seleção é delicada! A licença é o que determina como e se ocorrerá o compartilhamento legal de informações contidas no `GitHub`. Cada uma atua de uma forma diferente, então, estude-as! Saiba mais em: https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository.
 <br> Pronto, vocês pode terminar de estruturar seu repertório clicando em "Create repository".
+
+Na interface do terminal, podemos ultilizar os seguintes comandos para gerenciar as pastas e edita-las:
+
+git status - Mostra o branche em que se esta atualmente. Branche é uma maneira de editar os arquivos sem alterar os originais, então basicamente é criada uma cópia deles, um "universo paralelo" em que voce realiza as alterações que quiser e após isso pode fundi-lo com o arquivo original, sem risco de estragar algo que havia feito anteriormente.
+
+git clone (link) - Este comando copia os arquivos do Git Hub para uma pasta em seu computador. Para ultiliza-lo basta apenas digitar "git clone" e ao lado colocar o link do seu projeto. Esse link vai estar disponivel no canto superior direito de seu commit, em verde.
+Exemplo : git clone https://github.com/VictorPuntelRui/PCD.git
+
+git checkout (branche) - entrar em um branche específico. 
+Para trocar de "universo paralelo" e transitar entre eles, ultilizamos esse comando. Ao escrever "git chechout" e ao lado indicar para qual branche voce quer ir, ele irá te direcionar para tal.
+Exemplo : git checkout universo2
+universo2 nesse caso é um branche criado.
+
+git cd (arquivo) - Esse código ultilizamos para entrar em uma pasta específica. Funciona de maneira similar aos anteriores, digite "git cd" e ao lado escreva  a pasta que quer acessar.
+Exemplo: git cd tutorial_GitHub.
