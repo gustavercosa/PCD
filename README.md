@@ -15,7 +15,7 @@ Oi!
 <br>
 <br> Antes de tudo, veremos alguns apetrechos: o `GitHub` usa distintas ferramentas e vamos explicá-las sucintamente para você. 
 <br> Os `Repositories` são "locais" onde os arquivos dos seus projetos serão armazenados. 
-<br> O `Commit`é uma unidade estrutural com um cronograma de projeto Git. Nele ficarão armazenadas todas as informações essesnciais da formação e da estruturação do seu projeto, capturando, então, sempre o estado do seu trabalho. 
+<br> O `Commit`é uma unidade estrutural com um cronograma de projeto Git. Nele ficarão armazenadas todas as informações essenciais da formação e da estruturação do seu projeto, capturando, então, sempre o estado do seu trabalho. 
 <br> O `.gitignore` realiza a seleção de arquivos e/ou pastas que serão ignorados na criação de um novo repositório. Saiba mais [aqui](https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files).
 <br> O `README` é basicamente um local em que pode ser escrito um texto, como esse texto que você está lendo! Ele geralmente aparece no início de um repositório e contém informações importantes para os usuários que o acessarem. 
 <br> Por fim, o `fork` é um comando, o qual copia o repositório de uma outra pessoa, podendo, então, alterá-lo da forma que você quiser! 
