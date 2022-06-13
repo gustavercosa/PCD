@@ -55,7 +55,7 @@ Você se deve estar se perguntando: “Ok, acho que consegui aprender o que cada
 Logo, pensando em uma situação em que já temos uma conta no `GitHub`, já criamos um repositório, criamos nossos arquivos e agora queremos editá-los a partir do computador, podemos seguir o seguinte passo-a-passo:
 - Criar uma pasta chamada "GitHub";
 - Entrar nela e clicar com o botão direito e selecionar **Git Bash Here**;
-- Ir no `GitHub Web`, copiar o link do repositório, que se encontra no botão **Code**, e dar o comando: `git clone link`;
+- Ir no `GitHub Web`, copiar o link do repositório, que se encontra no botão **Code**, e dar o comando: `git clone` link;
 - Para entrar em uma pasta chamada "aula_github", dar o comando: `cd` aula_github;
 - Para verificar se está tudo certo, dar o comando: `git status`;
 - Alterar o que quisermos nos arquivos importados para a pasta;
