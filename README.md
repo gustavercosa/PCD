@@ -19,7 +19,7 @@ Oi!
 <br> O `.gitignore` realiza a seleção de arquivos e/ou pastas que serão ignorados na criação de um novo repositório. Saiba mais [aqui](https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files).
 <br> O `README` é basicamente um local em que pode ser escrito um texto, como esse texto que você está lendo! Ele geralmente aparece no início de um repositório e contém informações importantes para os usuários que o acessarem. 
 <br> Por fim, o `fork` é um comando, o qual copia o repositório de uma outra pessoa, podendo, então, alterá-lo da forma que você quiser! 
-<br> Agora vamos iniciar o tutorial do uso do GitHub. 🐱‍👤
+<br> Agora vamos iniciar o tutorial do uso do GitHub. 😎
 <br>
 ## Criando uma conta... 📚
 <br> Estando na [página inicial](https://github.com/), você clicará em **Sign up** no canto superior direito. O site pedirá, então, um e-mail. É recomendado que você dê àquele que é associado à faculdade, para ser possível solicitar requintes acadêmicos.
