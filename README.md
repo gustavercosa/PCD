@@ -1,4 +1,8 @@
+DRC: muito bom o texto e o tom utilizado! Senti falta dos pull requests!
+
 # Como usar o `GitHub`?
+
+DRC: adorei essa seção!! Ficou uma introdução muito clara.0
 
 Oi!
 <br> Somos alunos da primeira turma da Ilum e viemos introduzir o `GitHub` para você!
@@ -7,6 +11,9 @@ Oi!
 <br> Mas por que tudo isso é possível?
 <br> O `GitHub` faz parte do Git, um projeto que realiza manutenções de *software* nas suas diversas versões de criação. Isto é, ao invés de conter somente uma cópia de todo o histórico de formação, o sistema armazena todo o repertório de alterações. Isso será importante! 👀 
 <br>
+
+DRC: só pra constar, no notebook de vocês está instalado o git: https://git-scm.com/downloads
+
 <br> Bom, primeiramente, você deve instalar o `Github` em seu computador, para que seja possível realizar seus projetos. A seguir te apresentaremos o passo-a-passo para instalação em Windows!
 <br> Passo 1: entre no [site](https://desktop.github.com/).
 <br> Passo 2: clique em **Download for Windows (64bit)**.
@@ -22,7 +29,7 @@ Oi!
 <br> Agora vamos iniciar o tutorial do uso do GitHub. 😎
 <br>
 ## Criando uma conta... 📚
-<br> Estando na [página inicial](https://github.com/), você clicará em **Sign up** no canto superior direito. O site pedirá, então, um e-mail. É recomendado que você dê àquele que é associado à faculdade, para ser possível solicitar requintes acadêmicos.
+<br> Estando na [página inicial](https://github.com/), você clicará em **Sign up** no canto superior direito. O site pedirá, então, um e-mail. É recomendado que você dê aquele que é associado à faculdade, para ser possível solicitar requintes acadêmicos.
 <br> Após isso, também coloque uma senha. Lembre-se que senhas são individuais!
 <br> Já estamos terminando... coloque um nome de usuário. Inclusive, prazer, somos Barbarailum, gustavercosa, VictorPuntelRui e viyuetuki.
 <br> Por fim, aprove a inscrição! Tecle "y" e envie.
@@ -41,6 +48,9 @@ Oi!
 - `git clone` link: este comando copia os arquivos do `GitHub` para uma pasta em seu computador. Para utilizá-lo basta apenas digitar "git clone" e ao lado colocar o link do seu repositório. Esse link vai estar disponível no canto superior direito, em um “botão” escrito **Code**, em verde. Basta copiá-lo e colar no terminal, para isso o `Ctrl+V` não funciona, é preciso ou colocar usando o botão direito do mouse e **Paste** ou clicando nas teclas `Shift` e `Insert` do teclado. Exemplo da estrutura: git clone https://github.com/VictorPuntelRui/PCD.git;
 - `cd` pasta: utilizamos esse código para entrar em uma pasta específica, podendo ela, por exemplo, representar o repositório. Para usá-lo, digite "cd" e ao lado escreva a pasta que você quer acessar. Exemplo: cd tutorial_GitHub;
 <br> Observação: caso você não queira entrar desse modo, após clonar seu repositório do `GitHub Web` em seu computador, feche a *interface*, abra a pasta manualmente, já dentro dela, clique de novo com o botão direito em um local vazio e selecione **Git Bash Here**, assim, será aberta o terminal mais uma vez e você o estará usando já dentro da pasta aberta.
+
+DRC: esse parágrafo abaixo ficou muito extenso! Sugiro repensar e dividir ele em parágrafos menores.
+
 - `git status`: usando desse comando, podemos pedir para que seja mostrado o *branch* em que se está atualmente, os arquivos adicionados ou alterados no computador que não foram enviados ao `GitHub Web`, e se foi dado `commit` em algum arquivo (caso não, avisa se há arquivos a serem adicionados). Vale ressaltar que, se teve modificações em arquivos que ainda precisam passar pelo comando `commit`, esses arquivos serão mostrados em vermelho e, logo após o `commit` (não se preocupe, te ensinaremos em um dos tópicos posteriores), se “git status” for usado novamente, o nome do que se alterou passa a estar em verde;
 <br> Observação: caso você tenha lido atentamente, terá percebido que usamos a palavra *branch* e, provavelmente, deve estar se perguntando o que ela significa. Assim, pode-se dizer que *branch* é o ramo, ou seja, você pode estar no ramo principal (*main*) ou em um outro que você criou como uma cópia do primeiro. Esse criado por você é uma maneira de editar os arquivos sem alterar os originais, então, basicamente, é criada uma cópia de tudo o que você tem no seu repositório, por exemplo, como um "universo paralelo", no qual você realiza as alterações que quiser, sem alterar o do ramo original, e, após isso, pode fundi-lo com o arquivo do *main*. Isso é muito útil quando você tem um código no *main* já divulgado, com usuários, todavia você quer fazer modificações ou melhorias sem risco de estragar algo que havia feito anteriormente e de prejudicar quem está usando-o no momento, assim, criando um “universo paralelo”, você pode alterar o que quiser e depois fundir (dar *merge*) com o principal e tudo estará atualizado, podendo os usuários utilizar a nova versão. Para criar um *branch* novo, basta ir em **main** no canto superior esquerdo no `GitHub Web`, logo abaixo da barra de opções da parte de cima, e escrever o nome que ser dar a ele e, com isso, aparecerá a opção **Create branch**. Como não foi dito antes, para navegar entre eles, é nesse mesmo local que aparecerão seus `branchs` criados e você pode selecioná-los para ir mudando.
 - `git add .` ou `git add` "arquivo": após você ter visto com o `git status` se tinha alterações nos seus arquivos, caso tenha, conforme dito, elas vão ser mostradas em vermelho. Para adicioná-las e ser possível dar o `commit` para, assim, poder enviá-las ao `GitHub Web`, você deve usar o comando “git add” e, ao lado ou usar “.” ou colocar o nome do seu arquivo alterado. A diferença é que, com o ponto, todas as mudanças feitas em todos os arquivos vão ficar disponíveis para dar o `commit` e serem enviadas para o `GitHub Web` (ficando verde no `git status`), enquanto, colocando só o nome do arquivo em específico, só as alterações dele serão atualizadas no `git status`. Exemplos de estrutura: “git add . ”  ou “git add arquivo_alterado”. Sendo “arquivo_alterado” o nome de um arquivo.
